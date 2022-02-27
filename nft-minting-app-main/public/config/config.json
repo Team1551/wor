@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdB364d3063eCD00bC66456c7471633BBB7F5E4Dd",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xdb364d3063ecd00bc66456c7471633bbb7f5e4dd",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Bottles",
+  "SYMBOL": "PXNFT",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pixel-bottles",
+  "SHOW_BACKGROUND": true
+}
